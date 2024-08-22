@@ -43,6 +43,8 @@ a:hover{
     width:350px;
     height:515px;
     margin:8px;
+    display: flex;
+    justify-content: center;
 }
 .pics_in{
     height:350px;
@@ -52,4 +54,8 @@ a:hover{
     width:60%;
     margin:20px auto;
     text-align:left;
+}
+.flex{
+    display: flex;
+    justify-content: center;
 }
